@@ -21,4 +21,14 @@ void loop()
   }
   Serial.println(deger);
 }
+
+
+
+
+
+
+
+
+
+
 ![potansiyometre bağlanış](https://user-images.githubusercontent.com/78275279/205259325-54efd701-4ba5-436a-96e3-456020bd41bb.PNG)
